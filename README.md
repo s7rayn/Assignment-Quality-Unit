@@ -92,3 +92,7 @@ Result: "-".
 Your solution must be optimized for readability, flexibility, and good maintenance of source code.
 
 You can choose Java, Scala, or PHP language, without external libraries.
+
+### Composer
+
+```composer dump-autoload -o```
